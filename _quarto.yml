@@ -12,7 +12,7 @@ website:
     background: "#881c1c"
     logo: images/UMass White Wordmark Horiz.png
     right:
-      - text: "August 2022 Posts"
+      - text: "FALL 2022 Posts"
         href: 
       - text: "Contributors"
         file: about.qmd
