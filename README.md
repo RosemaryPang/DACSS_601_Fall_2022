@@ -1,4 +1,4 @@
-#  Course Blog Template
+#  DACSS 601 Fall 2022 Course Blog Template
 
 This is the generic DACSS course blog hosted on GitHub pages. Students will create a templated repository, work in RStudio to create new posts, and then commit and push the changes prior to submitting a pull request to main repository. 
 
